@@ -1,0 +1,1 @@
+This is a browser-based interactive drumkit built using Javascript and DOM manipulation. Credits to Angela Yu from the London App Brewery :)
